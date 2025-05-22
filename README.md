@@ -15,6 +15,5 @@ I'm **0xcds4r**.
 ---
 
 <div align="center">
-  <h3>🚀 Let's break some code together!</h3>
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding GIF">
 </div>
