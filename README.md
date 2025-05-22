@@ -2,6 +2,7 @@
   <h1>👋 Welcome to 0xcds4r's World</h1>
   <img src="https://img.shields.io/badge/Code-Ninja-blueviolet?style=flat-square&logo=codeforces" alt="Code Ninja Badge">
   <img src="https://img.shields.io/badge/Reverse-Engineer-black?style=flat-square&logo=git" alt="git badge">
+  <img src="https://img.shields.io/badge/Low--Level-Guru-darkgreen?style=flat-square&logo=c" alt="lowlvlguru">
 </div>
 
 ---
