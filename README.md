@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Welcome to 0xcds4r's World</h1>
   <img src="https://img.shields.io/badge/Code-Ninja-blueviolet?style=flat-square&logo=codeforces" alt="Code Ninja Badge">
-  ![Reverse Engineer](https://img.shields.io/badge/Reverse-Engineer-black?style=flat-square&logo=git)
+  <img src="https://img.shields.io/badge/Reverse-Engineer-black?style=flat-square&logo=git" alt="git badge">
 </div>
 
 ---
