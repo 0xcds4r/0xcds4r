@@ -8,11 +8,10 @@
 ---
 
 ### 🧑‍💻 About Me
-I'm **0xcds4r**.
+Hi, I'm **0xcds4r**.
 
-- 🔧 **Specialties**: Reverse engineering, low-level optimization, game modding
-- 😈 **Vibe**: Psychopathy with a side of code
-- 📫 **Connect**: Reach me on [Telegram](https://t.me/burnagfy)
+🔧 **Specialties**: Reverse engineering, low-level optimization, game modding
+📫 **Connect**: Reach me on [Telegram](https://t.me/burnagfy)
 
 ---
 
