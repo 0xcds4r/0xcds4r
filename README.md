@@ -26,3 +26,6 @@ Hi, I'm **0xcds4r**.
 |:-----------------------------:|:-------------------------------:|:-------------------------------:|
 | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xcds4r&show_icons=true&locale=en&layout=compact" alt="0xcds4r" /> | <img src="https://github-readme-stats.vercel.app/api?username=0xcds4r&show_icons=true&locale=en" alt="0xcds4r" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xcds4r" alt="0xcds4r" /> |
 
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=0xcds4r&theme=radical)
+
