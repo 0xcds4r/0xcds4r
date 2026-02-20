@@ -20,9 +20,13 @@
     > Yo. I dig through binaries, whip up fast hooks, patch mobile game versions and do shit.<br>
   </p>
 </div>
+
+
+
+
 <div align="center" style="max-width: 900px; margin: 0 auto;">
  <h2 style="color: #00ff9d; font-family: monospace; border-bottom: 2px solid #00ff9d; display: inline-block; padding-bottom: 8px;">
-    👾 CONTACT
+    💬 CONTACT
   </h2>
   </div>
 <div align="center" style="margin: 25px 0; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
