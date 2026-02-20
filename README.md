@@ -17,24 +17,7 @@
     👾 WHO AM I
   </h2>
   <p style="font-size: 1.2rem; line-height: 1.7; color: #e0e0ff; margin: 24px 0;">
-    > Yo. I dig through binaries, whip up fast hooks, patch mobile game versions and do shit that's usually hidden behind anticheats.<br>
-    > GTA San Andreas Mobile, SA-MP on Android, Phasmophobia, low-level optimization, bypasses & protections — that's my main playground right now.
+    > Yo. I dig through binaries, whip up fast hooks, patch mobile game versions and do shit.<br>
   </p>
-  <div style="display: flex; justify-content: center; gap: 24px; margin: 40px 0; flex-wrap: wrap;">
-    <a href="https://t.me/burnagfy" target="_blank" style="text-decoration: none;">
-      <div style="background: #0088cc; color: white; padding: 12px 28px; border-radius: 50px; font-weight: bold; box-shadow: 0 0 20px #0088cc80; transition: all 0.3s;">
-        Telegram → @burnagfy
-      </div>
-    </a>
-    <a href="https://x.com/0xcds4r" target="_blank" style="text-decoration: none;">
-      <div style="background: #000; color: white; padding: 12px 28px; border-radius: 50px; font-weight: bold; border: 2px solid #fff; box-shadow: 0 0 20px #ffffff40; transition: all 0.3s;">
-        X → @0xcds4r
-      </div>
-    </a>
-    <a href="https://0xcds4r.github.io/mypage/" target="_blank" style="text-decoration: none;">
-      <div style="background: linear-gradient(90deg, #00ff9d, #00b8ff); color: #000; padding: 12px 28px; border-radius: 50px; font-weight: bold; box-shadow: 0 0 25px #00ff9d80; transition: all 0.3s;">
-        Portfolio
-      </div>
-    </a>
-  </div>
 </div>
+
