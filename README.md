@@ -25,10 +25,11 @@
     👾 CONTACT
   </h2>
   </div>
-<div align="center" style="margin: 20px 0; display: flex; justify-content: center; gap: 30px;">
+<div align="center" style="margin: 25px 0; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <a href="https://t.me/burnagfy">
     <img src="https://img.shields.io/badge/Telegram_→_@burnagfy-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=006699" alt="Telegram">
   </a>
+  
  <a href="https://x.com/0xcds4r">
     <img src="https://img.shields.io/badge/X_→_@0xcds4r-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
