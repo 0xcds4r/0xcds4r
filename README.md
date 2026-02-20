@@ -21,3 +21,8 @@
   </p>
 </div>
 
+<div align="center" style="margin: 40px 0;">
+  <a href="https://t.me/burnagfy">
+    <img src="https://img.shields.io/badge/Telegram_→_@burnagfy-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=006699" alt="Telegram">
+  </a>
+</div>
