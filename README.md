@@ -22,32 +22,22 @@
     > Yo. I dig through binaries, whip up fast hooks, patch mobile game versions and do shit.<br>
   </p>
 
-  <div align="center" style="max-width: 900px; margin: 40px auto 0 auto;">
-  <h2 style="color: #00ff9d; font-family: monospace; border-bottom: 2px solid #00ff9d; display: inline-block; padding-bottom: 8px;">
-    💸 SUPPORT
-  </h2>
+  <p align="center">
+  <a href="https://www.donationalerts.com/r/cds4roff">
+    <img src="https://img.shields.io/badge/Donate-ff6b00?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Donate">
+  </a>
+  <a href="https://www.patreon.com/cds4roff">
+    <img src="https://img.shields.io/badge/Patreon-ff424d?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
+  </a>
+  <a href="https://boosty.to/cds4roff">
+    <img src="https://img.shields.io/badge/Boosty-f15f2c?style=for-the-badge&logo=boosty&logoColor=white" alt="Boosty">
+  </a>
+</p>
 
-  <div style="margin-top: 25px; display: flex; flex-direction: column; gap: 10px; align-items: center;">
-
-    <a href="https://www.donationalerts.com/r/cds4roff">
-      <img src="https://img.shields.io/badge/Donate-ff6b00?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Donate">
-    </a>
-
-    <a href="https://www.patreon.com/cds4roff">
-      <img src="https://img.shields.io/badge/Patreon-ff424d?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
-    </a>
-
-    <a href="https://boosty.to/cds4roff">
-      <img src="https://img.shields.io/badge/Boosty-f15f2c?style=for-the-badge&logo=boosty&logoColor=white" alt="Boosty">
-    </a>
-
-    <div style="margin-top: 15px; padding: 12px 16px; border: 1px solid #333; border-radius: 10px; background: rgba(255,255,255,0.03); font-family: monospace; font-size: 0.95rem; color: #e0e0ff; text-align: center;">
-      <div style="margin-bottom: 6px;">BTC: <code>bc1qj4mw2p66rq5c4km4fcdn4el555x9prjjpg6zk6</code></div>
-      <div>ETH: <code>0x50Fd6a64AE70cdc658e1711F706CB220Aa19359b</code></div>
-    </div>
-
-  </div>
-</div>
+<p align="center">
+  <code>BTC: bc1qj4mw2p66rq5c4km4fcdn4el555x9prjjpg6zk6</code><br>
+  <code>ETH: 0x50Fd6a64AE70cdc658e1711F706CB220Aa19359b</code>
+</p>
 
  <div style="margin-top: 30px; padding: 16px; border: 2px solid #ff2d55; border-radius: 12px; background: rgba(255,45,85,0.05);">
   <h3 style="color: #ff2d55; margin-bottom: 10px;">⚠️ Identity Notice</h3>
