@@ -57,6 +57,12 @@
   </a>
 </div>
 
+<div align="center" style="max-width: 900px; margin: 0 auto;">
+ <h2 style="color: #00ff9d; font-family: monospace; border-bottom: 2px solid #00ff9d; display: inline-block; padding-bottom: 8px;">
+    💰 Support me
+  </h2>
+  </div>
+
 <p align="center">
   <a href="https://www.donationalerts.com/r/cds4roff">
     <img src="https://img.shields.io/badge/Donate-ff6b00?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Donate">
