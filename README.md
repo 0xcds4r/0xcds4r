@@ -22,23 +22,6 @@
     > Yo. I dig through binaries, whip up fast hooks, patch mobile game versions and do shit.<br>
   </p>
 
-  <p align="center">
-  <a href="https://www.donationalerts.com/r/cds4roff">
-    <img src="https://img.shields.io/badge/Donate-ff6b00?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Donate">
-  </a>
-  <a href="https://www.patreon.com/cds4roff">
-    <img src="https://img.shields.io/badge/Patreon-ff424d?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
-  </a>
-  <a href="https://boosty.to/cds4roff">
-    <img src="https://img.shields.io/badge/Boosty-f15f2c?style=for-the-badge&logo=boosty&logoColor=white" alt="Boosty">
-  </a>
-</p>
-
-<p align="center">
-  <code>BTC: bc1qj4mw2p66rq5c4km4fcdn4el555x9prjjpg6zk6</code><br>
-  <code>ETH: 0x50Fd6a64AE70cdc658e1711F706CB220Aa19359b</code>
-</p>
-
  <div style="margin-top: 30px; padding: 16px; border: 2px solid #ff2d55; border-radius: 12px; background: rgba(255,45,85,0.05);">
   <h3 style="color: #ff2d55; margin-bottom: 10px;">⚠️ Identity Notice</h3>
 
@@ -73,3 +56,20 @@
     <img src="https://img.shields.io/badge/@0xcds4r-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 </div>
+
+<p align="center">
+  <a href="https://www.donationalerts.com/r/cds4roff">
+    <img src="https://img.shields.io/badge/Donate-ff6b00?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Donate">
+  </a>
+  <a href="https://www.patreon.com/cds4roff">
+    <img src="https://img.shields.io/badge/Patreon-ff424d?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
+  </a>
+  <a href="https://boosty.to/cds4roff">
+    <img src="https://img.shields.io/badge/Boosty-f15f2c?style=for-the-badge&logo=boosty&logoColor=white" alt="Boosty">
+  </a>
+</p>
+
+<p align="center">
+  <code>BTC: bc1qj4mw2p66rq5c4km4fcdn4el555x9prjjpg6zk6</code><br>
+  <code>ETH: 0x50Fd6a64AE70cdc658e1711F706CB220Aa19359b</code>
+</p>
