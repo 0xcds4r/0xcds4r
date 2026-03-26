@@ -21,6 +21,19 @@
   <p style="font-size: 1.2rem; line-height: 1.7; color: #e0e0ff; margin: 24px 0;">
     > Yo. I dig through binaries, whip up fast hooks, patch mobile game versions and do shit.<br>
   </p>
+
+  <div style="margin-top: 30px; padding: 16px; border: 2px solid #ff2d55; border-radius: 12px; background: rgba(255,45,85,0.05);">
+  <h3 style="color: #ff2d55; margin-bottom: 10px;">⚠️ Identity Notice</h3>
+  <p style="color: #ffffff; line-height: 1.6;">
+    Please do <b>NOT</b> use my name or username anywhere.<br><br>
+    
+    My username is a unique part of my identity and brand. Any unauthorized use may mislead others and harm my reputation.<br><br>
+    
+    I am <b>NOT</b> affiliated with any accounts, projects, or activities using my name without explicit permission.<br><br>
+    
+    If you encounter such usage — treat it as <b>impersonation</b> and proceed with caution.
+  </p>
+</div>
 </div>
 
 
