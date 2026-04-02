@@ -19,7 +19,7 @@
     👾 WHO AM I
   </h2>
   <p style="font-size: 1.2rem; line-height: 1.7; color: #e0e0ff; margin: 24px 0;">
-    > Yo. I dig through binaries, whip up fast hooks, patch mobile game versions and do shit.<br>
+    > Yo.<br>
   </p>
 
  <div style="margin-top: 30px; padding: 16px; border: 2px solid #ff2d55; border-radius: 12px; background: rgba(255,45,85,0.05);">
